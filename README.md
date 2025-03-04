@@ -3,3 +3,6 @@ The code I develop teaching AOS 111/204: Machine Learning class in 2020 and 2021
 
 ## Week 0
 Prepare and basic python operations
+
+## Week 1
+Regression, linear, polynomial, overfitting
